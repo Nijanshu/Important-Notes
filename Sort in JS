@@ -1,0 +1,8 @@
+Sort Method:
+
+Only arranges an array alphabateically or in numbers just according to first number
+
+for eg:  in a= [2,5,7,11,33]
+it will be arranged: a.sort()=[11,2,33,7]
+
+It also modifies the actual array, so need to make another array
